@@ -4,5 +4,5 @@ A free tool for generating warp on warp config file, in order to use into Hiddif
 bash <(curl -fsSL https://raw.githubusercontent.com/sina-moradbakhti/free-wow-conf-generator/main/fccipp.sh)
 ```
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/sina-moradbakhti/free-wow-conf-generator/main/warp-config-to-xclip.sh)
+bash <(curl -fsSL https://github.com/karamimoheb/free-wow-conf-generator/blob/main/warp-config-to-xclip.sh)
 ```
