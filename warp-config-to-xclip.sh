@@ -1,4 +1,12 @@
 #!/bin/bash
+# Checking for the existence of the xclip package
+if ! command -v xclip &> /dev/null
+then
+    echo "The xclip package is not installed. Installing..."
+    sudo apt install xclip
+else
+    echo "The xclip package is already installed."
+fi
 
 #colors
 red='\033[0;31m'
